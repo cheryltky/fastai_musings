@@ -1,1 +1,1 @@
-Sitemap: https://fastpages.fast.ai/sitemap.xml
+Sitemap: https://cheryltky.github.io/fastai_musings/sitemap.xml
